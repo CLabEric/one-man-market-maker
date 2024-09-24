@@ -14,11 +14,6 @@ export default function Home() {
 
           <ul className="nav nav-pills">
             <li className="nav-item">
-              <a href="#" className="nav-link active" aria-current="page">
-                Home
-              </a>
-            </li>
-            <li className="nav-item">
               <a href="#" className="nav-link">
                 Features
               </a>
