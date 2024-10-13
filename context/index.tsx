@@ -38,7 +38,9 @@ const modal = createAppKit({
   defaultNetwork: mainnet,
   metadata: metadata,
   features: {
+    email: false,
     analytics: true, // Optional - defaults to your Cloud configuration
+    socials: [],
   },
 });
 
